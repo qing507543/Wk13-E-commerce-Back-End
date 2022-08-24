@@ -66,6 +66,3 @@ The application is used to GET data for each route(categories, products, or tags
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
 This repository is licensed under the MIT license.
-
-## Questions
-Questions about this repository? Please contact me at [Benasabir@gmail.com](mailto:Benasabir@gmail.com). View more of my work in GitHub at [BennAsabir](https://github.com/BennAsabir) 
